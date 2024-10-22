@@ -14,7 +14,7 @@ roles:
   - key: Name
     name: FBI
   - key: grad
-    name: Group member
+    name: FBI
   - key: ugrad
     name: GSW
   - key: collab
