@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 1主页 Home
+  - title: 主页 Home
     link: /
-  - title: 2 Picture show
+  - title:  Picture show
     link: /research.html
-  - title: 3 collage
+  - title:  collage
     link: /publications.html
