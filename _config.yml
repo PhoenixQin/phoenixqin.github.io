@@ -12,7 +12,7 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: Name
-    name: PHXQ
+    name: FBI
   - key: grad
     name: Group member
   - key: ugrad
