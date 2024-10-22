@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 1主页 Home
     link: /
-  - title: 2科研项目 Research
+  - title: 2 Picture show
     link: /research.html
-  - title: 3论文 Publications
+  - title: 3 collage
     link: /publications.html
