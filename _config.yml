@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 城市 City
+  - title: Living City
     link: /
-  - title:  Picture show
+  - title:  Picture display
     link: /research.html
   - title:  collage
     link: /publications.html
