@@ -12,9 +12,9 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: Name
-    name: FBI
+    name: group member
   - key: grad
-    name: FBI
+    name: group member
   - key: ugrad
     name: GSW
   - key: collab
